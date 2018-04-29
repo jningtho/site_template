@@ -1,4 +1,6 @@
-For more awesome website templates make sure to visit https://colorlib.com
+## This is a Static Site Template for Training Purpose.
+
+
 
 All templates are licensed under the Creative Commons Attribution 3.0 license. https://creativecommons.org/licenses/by/3.0/
 
